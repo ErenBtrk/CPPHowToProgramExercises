@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1611044060 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.12\main.cpp
+	<iostream>
+	"rectangle.h"
+	"coord.h"
+
+1611059894 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.12\rectangle.cpp
+	"coord.h"
+	"rectangle.h"
+	<stdexcept>
+	<iostream>
+
+1611038698 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.12\coord.h
+
+1611043777 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.12\rectangle.h
+	"coord.h"
+

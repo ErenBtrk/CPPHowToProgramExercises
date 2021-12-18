@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612818350 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.10\main.cpp
+	<iostream>
+	"Rational.h"
+	<math.h>
+
+1612818171 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.10\rational.h
+	<iostream>
+
+1612818394 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.10\rational.cpp
+	"Rational.h"
+	<iostream>
+	<stdexcept>
+	<math.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608936298 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.13\main.cpp
+	<iostream>
+	"gasMileage.h"
+
+1608934901 c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.13\gasmileage.h
+
+1608935834 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.13\gasmileage.cpp
+	<iostream>
+	"gasMileage.h"
+

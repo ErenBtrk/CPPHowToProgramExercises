@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611119608 source:c:\users\erenb\desktop\hugeinteger\9.14\hugeinteger.cpp
+	"HugeInteger.h"
+	<string>
+
+1611119608 c:\users\erenb\desktop\hugeinteger\9.14\hugeinteger.h
+	<iostream>
+	<string>
+
+1611119608 source:c:\users\erenb\desktop\hugeinteger\9.14\main.cpp
+	"HugeInteger.h"
+

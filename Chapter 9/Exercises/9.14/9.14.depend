@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611145600 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.14\main.cpp
+	<iostream>
+	"hugeInteger.h"
+
+1611145589 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.14\hugeinteger.cpp
+	"hugeInteger.h"
+	<string>
+
+1611145542 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.14\hugeinteger.h
+	<iostream>
+

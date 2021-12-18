@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608815200 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.12\main.cpp
+	<iostream>
+	<string>
+	"account.h"
+
+1608815262 c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.12\account.h
+	<iostream>
+
+1608815317 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.12\account.cpp
+	<iostream>
+	<string>
+	"account.h"
+

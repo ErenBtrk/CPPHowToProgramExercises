@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1610501283 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\main.cpp
+	<iostream>
+	"game.h"
+	<random>
+	<time.h>
+
+1610502346 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\hare.cpp
+	<iostream>
+	"hare.h"
+
+1610500863 c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\hare.h
+
+1610502346 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\tortoise.cpp
+	<iostream>
+	"tortoise.h"
+
+1610500863 c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\tortoise.h
+
+1610610727 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\game.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<random>
+	"tortoise.h"
+	"hare.h"
+	"game.h"
+	<windows.h>
+
+1610500916 c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\8.12\game.h
+	"tortoise.h"
+	"hare.h"
+

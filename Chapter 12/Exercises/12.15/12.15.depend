@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1613895400 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\employee.h
+	<string>
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1613978142 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+	"PieceWorker.h"
+	"HourlyWorker.h"
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1613978222 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\hourlyworker.cpp
+	<iostream>
+	"HourlyWorker.h"
+
+1613977566 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\hourlyworker.h
+	"Employee.h"
+
+1613977566 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\pieceworker.h
+	"Employee.h"
+
+1613978222 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.15\pieceworker.cpp
+	<iostream>
+	"PieceWorker.h"
+

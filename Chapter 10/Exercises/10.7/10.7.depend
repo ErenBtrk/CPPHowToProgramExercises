@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612733804 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.7\main.cpp
+	<iostream>
+	"doubleSubscriptedArray.h"
+
+1612733567 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.7\doublesubscriptedarray.cpp
+	"doubleSubscriptedArray.h"
+	<iostream>
+	<stdexcept>
+	<iomanip>
+
+1612733310 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.7\doublesubscriptedarray.h
+	<iostream>
+

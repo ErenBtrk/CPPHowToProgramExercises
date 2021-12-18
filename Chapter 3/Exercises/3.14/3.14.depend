@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608820028 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.14\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+
+1608819816 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.14\employee.cpp
+	<iostream>
+	<string>
+	"employee.h"
+
+1608818436 c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.14\employee.h
+	<iostream>
+

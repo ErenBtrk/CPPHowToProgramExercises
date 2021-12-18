@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612878480 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.11\main.cpp
+	<iostream>
+	"poly.h"
+
+1612878972 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.11\poly.cpp
+	"poly.h"
+	<algorithm>
+
+1612875980 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\exercises\10.11\poly.h
+	<iostream>
+	<vector>
+

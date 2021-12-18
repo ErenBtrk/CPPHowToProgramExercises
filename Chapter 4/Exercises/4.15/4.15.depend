@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608975065 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.15\main.cpp
+	<iostream>
+	"salesPerson.h"
+
+1608975681 c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.15\salesperson.h
+
+1608975549 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.15\salesperson.cpp
+	<iostream>
+	"salesPerson.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609688234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.61\arithmetic.cpp
+	<iostream>
+	"arithmetic.h"
+	<time.h>
+	<stdlib.h>
+
+1609687377 c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.61\arithmetic.h
+
+1609687417 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.61\main.cpp
+	<iostream>
+	"arithmetic.h"
+	<time.h>
+	<stdlib.h>
+

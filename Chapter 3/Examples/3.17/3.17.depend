@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608805594 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\examples\3.17\main.cpp
+	<iostream>
+	"GradeBook.hpp"
+
+1608805573 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\examples\3.17\gradebook.cpp
+	"GradeBook.hpp"
+	<iostream>
+	<string>
+
+1608805594 c:\users\erenb\desktop\c++ how to program solutions\chapter 3\examples\3.17\gradebook.hpp
+	<string>
+

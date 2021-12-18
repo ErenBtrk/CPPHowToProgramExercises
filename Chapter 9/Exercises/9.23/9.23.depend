@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1611731022 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.23\deckofcards.cpp
+	"deckOfCards.h"
+	"card.h"
+	<stdlib.h>
+	<time.h>
+
+1611739264 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.23\main.cpp
+	<iostream>
+	"deckOfCards.h"
+	<time.h>
+
+1611728500 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.23\card.cpp
+	"card.h"
+	<iostream>
+	<array>
+
+1611728450 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.23\card.h
+	<iostream>
+	<array>
+
+1611731022 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.23\deckofcards.h
+	"card.h"
+	<array>
+

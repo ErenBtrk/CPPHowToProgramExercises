@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609003975 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.36\main.cpp
+	<iostream>
+	"encryptionSystem.h"
+
+1609003456 c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.36\encryptionsystem.h
+
+1609004262 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.36\encryptionsystem.cpp
+	<iostream>
+	<math.h>
+	"encryptionSystem.h"
+

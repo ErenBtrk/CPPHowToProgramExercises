@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1611275014 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.15\main.cpp
+	<iostream>
+	"TicTacToe.h"
+
+1613152804 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.15\tictactoe.cpp
+	"TicTacToe.h"
+	"player.h"
+	<iostream>
+	<iomanip>
+
+1611271410 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.15\tictactoe.h
+	<iostream>
+	"player.h"
+
+1611268858 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.15\player.cpp
+	"player.h"
+
+1611268858 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.15\player.h
+	<iostream>
+

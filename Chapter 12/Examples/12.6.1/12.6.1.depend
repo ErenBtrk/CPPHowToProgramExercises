@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\employee.h
+	<string>
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
+1613895234 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1613895400 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1613895234 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\examples\12.6.1\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+

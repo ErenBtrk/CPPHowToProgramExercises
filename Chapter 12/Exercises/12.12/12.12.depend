@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1613959405 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\date.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1613959405 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\date.h
+	<array>
+	<iostream>
+
+1613961587 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\main.cpp
+	<iostream>
+	"Employee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+	"SalariedEmployee.h"
+	<vector>
+
+1613961526 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1613961526 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1613961526 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1613961527 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\employee.h
+	<string>
+	"date.h"
+
+1613961527 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1613961527 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
+1613961527 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1613959133 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.12\employee.cpp
+	<iostream>
+	"Employee.h"
+

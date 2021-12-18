@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608824611 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.16\heartrates.cpp
+	<iostream>
+	<string>
+	"heartRates.h"
+
+1608824585 c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.16\heartrates.h
+
+1608824201 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.16\main.cpp
+	<iostream>
+	"heartRates.h"
+

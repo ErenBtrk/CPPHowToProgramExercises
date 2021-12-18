@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608826725 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.17\healthprofile.cpp
+	<iostream>
+	<string>
+	"healthProfile.h"
+
+1608826991 c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.17\healthprofile.h
+
+1608826763 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 3\exercises\3.17\main.cpp
+	<iostream>
+	"healthProfile.h"
+

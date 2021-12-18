@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612302861 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.6\date.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1612302861 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.6\date.h
+	<array>
+	<iostream>
+
+1612302899 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.6\main.cpp
+	<iostream>
+	"Date.h"
+

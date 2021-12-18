@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1613801406 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\main.cpp
+	<iostream>
+	"account.h"
+	"savingsAccount.h"
+	"checkingAccount.h"
+
+1613794812 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\account.cpp
+	"account.h"
+	<stdexcept>
+
+1613794812 c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\account.h
+
+1613794883 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\checkingaccount.cpp
+	"checkingAccount.h"
+	"account.h"
+	<iostream>
+
+1613794866 c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\checkingaccount.h
+	"account.h"
+
+1613795682 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\savingsaccount.cpp
+	"savingsAccount.h"
+
+1613794892 c:\users\erenb\desktop\c++ how to program solutions\chapter 11\exercises\11.10\savingsaccount.h
+	"account.h"
+

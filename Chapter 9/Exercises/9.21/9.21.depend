@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611761122 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.21\main.cpp
+	<iostream>
+	"integerSet.h"
+
+1611760721 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.21\integerset.h
+	<vector>
+
+1611760874 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.21\integerset.cpp
+	"integerSet.h"
+	<iostream>
+

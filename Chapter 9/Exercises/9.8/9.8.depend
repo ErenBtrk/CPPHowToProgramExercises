@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610960699 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.8\main.cpp
+	<iostream>
+	"date.h"
+	<windows.h>
+
+1610960691 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.8\date.h
+	<stdexcept>
+
+1610960909 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.8\date.cpp
+	"date.h"
+	<iostream>
+

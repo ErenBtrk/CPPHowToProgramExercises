@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1614053724 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\main.cpp
+	"CarbonFootprint.h"
+	"Bicycle.h"
+	"Building.h"
+	"Car.h"
+	<vector>
+
+1614053098 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\carbonfootprint.h
+
+1614053180 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\bicycle.h
+	"CarbonFootprint.h"
+
+1614053430 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\building.h
+	"Carbonfootprint.h"
+
+1614053187 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\car.h
+	"CarbonFootprint.h"
+
+1614046683 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\carbonfootprint.cpp
+
+1614053508 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\bicycle.cpp
+	"Bicycle.h"
+	<iostream>
+
+1614053542 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\building.cpp
+	"Building.h"
+	<iostream>
+
+1614053755 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.16\car.cpp
+	"Car.h"
+	<iostream>
+

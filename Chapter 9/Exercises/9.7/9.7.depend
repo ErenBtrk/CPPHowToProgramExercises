@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610958226 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.7\time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Time.h"
+
+1610957555 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.7\time.h
+
+1610958097 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.7\main.cpp
+	<iostream>
+	"time.h"
+	<windows.h>
+

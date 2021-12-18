@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609200861 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.30\main.cpp
+	<iostream>
+	"questionGame.h"
+
+1609201642 c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.30\questiongame.h
+
+1609202271 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.30\questiongame.cpp
+	<iostream>
+	<iomanip>
+	"questionGame.h"
+

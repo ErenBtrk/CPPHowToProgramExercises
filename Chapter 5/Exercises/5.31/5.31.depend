@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609245342 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.31\main.cpp
+	<iostream>
+	"tax.h"
+
+1609245342 c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.31\tax.h
+
+1609245848 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.31\tax.cpp
+	<iostream>
+	<iomanip>
+	"tax.h"
+

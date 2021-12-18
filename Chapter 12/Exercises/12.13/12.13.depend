@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1613967612 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\overnightpackage.cpp
+	"overnightPackage.h"
+
+1613969104 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\overnightpackage.h
+	"package.h"
+
+1613969104 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\package.h
+	<string>
+	<iostream>
+
+1613968077 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\package.cpp
+	"package.h"
+	<stdexcept>
+
+1613967612 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\twodaypackage.cpp
+	"twoDayPackage.h"
+
+1613969104 c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\twodaypackage.h
+	"package.h"
+
+1613969493 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 12\exercises\12.13\main.cpp
+	<iostream>
+	<vector>
+	"overnightPackage.h"
+	"package.h"
+	"twoDayPackage.h"
+

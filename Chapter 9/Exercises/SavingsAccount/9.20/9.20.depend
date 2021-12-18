@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611682609 source:c:\users\erenb\desktop\savingsaccount\9.20\main.cpp
+	<iostream>
+	"savingsAccount.h"
+
+1611682615 c:\users\erenb\desktop\savingsaccount\9.20\savingsaccount.h
+	<iostream>
+
+1611682609 source:c:\users\erenb\desktop\savingsaccount\9.20\savingsaccount.cpp
+	"savingsAccount.h"
+

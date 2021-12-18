@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609683466 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.57\main.cpp
+	<iostream>
+	"multiplication.h"
+	<time.h>
+	<stdlib.h>
+
+1609683241 c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.57\multiplication.h
+
+1609683458 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 6\exercises\6.57\multiplication.cpp
+	<iostream>
+	"multiplication.h"
+	<time.h>
+	<stdlib.h>
+

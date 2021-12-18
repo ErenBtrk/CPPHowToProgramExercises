@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610782871 source:c:\users\erenb\desktop\simpletron machine language\sml2\simpletron.cpp
+	"simpletron.h"
+
+1610782871 c:\users\erenb\desktop\simpletron machine language\sml2\simpletron.h
+	<iomanip>
+	<iostream>
+	<string>
+
+1610782876 source:c:\users\erenb\desktop\simpletron machine language\sml2\main.cpp
+	"simpletron.h"
+

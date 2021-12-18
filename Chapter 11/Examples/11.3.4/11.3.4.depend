@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1613616631 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\examples\11.3.4\baseplus.cpp
+	<iostream>
+	<stdexcept>
+	"basePlus.h"
+
+1613616631 c:\users\erenb\desktop\c++ how to program solutions\chapter 11\examples\11.3.4\baseplus.h
+	<string>
+	"commissionEmployee.h"
+
+1613616631 c:\users\erenb\desktop\c++ how to program solutions\chapter 11\examples\11.3.4\commissionemployee.h
+	<string>
+
+1613616631 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\examples\11.3.4\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"commissionEmployee.h"
+
+1613617204 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 11\examples\11.3.4\main.cpp
+	<iostream>
+	<iomanip>
+	"basePlus.h"
+

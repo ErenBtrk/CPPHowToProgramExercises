@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612385565 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.9\array.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Array.h"
+
+1612657636 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.9\array.h
+	<iostream>
+
+1612385605 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.9\main.cpp
+	<iostream>
+	<stdexcept>
+	"Array.h"
+

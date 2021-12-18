@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610583880 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\deneme\main.cpp
+	"simpletron.h"
+	<iostream>
+	<array>
+	<iomanip>
+	<string>
+
+1610583880 c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\deneme\simpletron.h
+
+1610583880 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 8\exercises\deneme\simpletron.cpp
+	"simpletron.h"
+

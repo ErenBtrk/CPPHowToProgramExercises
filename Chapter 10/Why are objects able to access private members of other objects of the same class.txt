@@ -1,0 +1,9 @@
+--Why are objects able to access private members of other objects of the same class?--
+
+The fundamental point of encapsulation and data hiding isn't taking away access rights. 
+It's to encourage modularity by forcing you to write code to use classes in such a way that your code will not break when the other classes' internals change (as long as the interface remains the same).
+In contrast, there is no issue with modularity when an object is allowed to access private members of other instances of the same class.
+Doing so does not introduce harmful dependencies into the code, as the details remain in the same module as the class definition, and have no effect on how other modules are written.
+Also, how would you write copy constructors if objects couldn't access other objects' private members? 
+You would have to have a getter for every member, which defeats the purpose of encapsulation, anyway. 
+(Getters and setters are for abstract properties associated with the mental model of the object, not for the "physical" members of the object.)

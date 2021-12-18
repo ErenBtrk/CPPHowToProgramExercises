@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610934362 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.5\complex.cpp
+	"complex.h"
+	<iostream>
+	<math.h>
+
+1610934362 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.5\complex.h
+
+1610934107 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.5\main.cpp
+	<iostream>
+	"complex.h"
+

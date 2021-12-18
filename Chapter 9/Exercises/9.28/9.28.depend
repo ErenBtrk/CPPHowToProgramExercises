@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1612263183 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.28\emergency.cpp
+	"emergency.h"
+
+1612263207 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.28\emergency.h
+	<string>
+	"Time.h"
+
+1612263183 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.28\time.h
+
+1584205420 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.28\main.cpp
+	<iostream>
+
+1612263183 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.28\time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Time.h"
+

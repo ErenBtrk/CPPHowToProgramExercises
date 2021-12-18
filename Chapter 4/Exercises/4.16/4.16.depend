@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608976681 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.16\main.cpp
+	<iostream>
+	"employee.h"
+
+1608976681 c:\users\erenb\desktop\c++ how to program solutions\chapter 4\exercises\4.16\employee.h
+

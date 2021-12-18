@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609173945 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.21\main.cpp
+	<iostream>
+	"Salary.h"
+
+1609173945 c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.21\salary.h
+	<iostream>
+
+1609173727 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.21\salary.cpp
+	<iostream>
+	<iomanip>
+	"Salary.h"
+

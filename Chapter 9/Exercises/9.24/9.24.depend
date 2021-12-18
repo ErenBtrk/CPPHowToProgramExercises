@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1611817780 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\card.cpp
+	"card.h"
+	<iostream>
+	<array>
+
+1611817780 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\card.h
+	<iostream>
+	<array>
+
+1611928418 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\deckofcards.cpp
+	"deckOfCards.h"
+	"card.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1611928412 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\deckofcards.h
+	"card.h"
+	<vector>
+
+1612210890 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\main.cpp
+	<iostream>
+	<time.h>
+	"deckOfCards.h"
+	"cardDealer.h"
+	"player.h"
+	<ctype.h>
+
+1612211394 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\player.cpp
+	"player.h"
+	"card.h"
+	<iomanip>
+	<algorithm>
+
+1612210890 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\player.h
+	"card.h"
+	<vector>
+
+1612211126 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\carddealer.cpp
+	"cardDealer.h"
+	"deckOfCards.h"
+	"combination.h"
+	<string.h>
+
+1612210900 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\carddealer.h
+	"deckOfCards.h"
+	"player.h"
+	"card.h"
+
+1612097804 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\combination.cpp
+	"combination.h"
+	<vector>
+	<iostream>
+
+1611984342 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\exercises\9.24\combination.h
+	<vector>
+	<string>
+

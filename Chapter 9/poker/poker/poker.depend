@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1611954430 source:c:\users\erenb\desktop\poker\poker\card.cpp
+	"card.h"
+
+1611954430 c:\users\erenb\desktop\poker\poker\card.h
+	<array>
+
+1611954430 source:c:\users\erenb\desktop\poker\poker\dealer.cpp
+	"dealer.h"
+	"utils.h"
+	<iostream>
+
+1611954430 c:\users\erenb\desktop\poker\poker\dealer.h
+	"pokerHand.h"
+	"deckOfCards.h"
+
+1611954430 c:\users\erenb\desktop\poker\poker\pokerhand.h
+	<vector>
+	"card.h"
+	"deckOfCards.h"
+	<string>
+
+1611954431 c:\users\erenb\desktop\poker\poker\deckofcards.h
+	"card.h"
+	<vector>
+
+1611954430 c:\users\erenb\desktop\poker\poker\utils.h
+	<vector>
+
+1611954430 source:c:\users\erenb\desktop\poker\poker\deckofcards.cpp
+	"deckOfCards.h"
+	<cstdlib>
+	<ctime>
+
+1611954430 source:c:\users\erenb\desktop\poker\poker\pokerhand.cpp
+	"pokerHand.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1612015608 source:c:\users\erenb\desktop\poker\poker\utils.cpp
+	"utils.h"
+	<algorithm>
+	<iostream>
+
+1611954891 source:c:\users\erenb\desktop\poker\poker\main.cpp
+	<iostream>
+	"dealer.h"
+
+1611914830 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\card.cpp
+	"card.h"
+
+1611914830 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\card.h
+	<array>
+
+1611914830 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\dealer.cpp
+	"dealer.h"
+	"utils.h"
+	<iostream>
+
+1611914830 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\dealer.h
+	"pokerHand.h"
+	"deckOfCards.h"
+
+1611914830 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\pokerhand.h
+	<vector>
+	"card.h"
+	"deckOfCards.h"
+	<string>
+
+1611914830 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\deckofcards.h
+	"card.h"
+	<vector>
+
+1611914830 c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\utils.h
+	<vector>
+
+1611914830 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\deckofcards.cpp
+	"deckOfCards.h"
+	<cstdlib>
+	<ctime>
+
+1611915290 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\main.cpp
+	<iostream>
+	"dealer.h"
+
+1611914830 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\pokerhand.cpp
+	"pokerHand.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1611981756 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 9\poker\poker\utils.cpp
+	"utils.h"
+	<algorithm>
+	<iostream>
+

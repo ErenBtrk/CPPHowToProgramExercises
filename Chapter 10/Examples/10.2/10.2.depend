@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612295375 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.2\main.cpp
+	<iostream>
+	"PhoneNumber.h"
+
+1612295262 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.2\phonenumber.cpp
+	<iomanip>
+	"PhoneNumber.h"
+
+1612295262 c:\users\erenb\desktop\c++ how to program solutions\chapter 10\examples\10.2\phonenumber.h
+	<iostream>
+	<string>
+

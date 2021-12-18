@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609090084 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.14\main.cpp
+	<iostream>
+	"product.h"
+
+1609090096 c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.14\product.h
+
+1609090258 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 5\exercises\5.14\product.cpp
+	<iostream>
+	<iomanip>
+	"product.h"
+

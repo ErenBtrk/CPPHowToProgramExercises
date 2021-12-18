@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609868334 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 7\exercises\7.18\main.cpp
+	<iostream>
+	<iomanip>
+	"crapsGame.h"
+	<time.h>
+
+1609870632 c:\users\erenb\desktop\c++ how to program solutions\chapter 7\exercises\7.18\crapsgame.h
+	<array>
+
+1609870722 source:c:\users\erenb\desktop\c++ how to program solutions\chapter 7\exercises\7.18\crapsgame.cpp
+	<iostream>
+	<iomanip>
+	"CrapsGame.h"
+
