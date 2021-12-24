@@ -2,17 +2,14 @@
 //
 
 #include <iostream>
-#include "PhoneNumber.h"
+#include <fstream>
+#include "FileProcess.h"
 
-int main()
+int main()	
 {
-    PhoneNumber pNum("545","609","1867");
-    std::cout << pNum;
-
-    std::cout.clear(std::ios_base::failbit);
-    std::cout << std::cin.rdstate();
-    std::cout << std::cin.fail();
-    
+	FileProcess fp;
+	fp.Menu();
+	
 }
 
 // Programı çalıştır: Ctrl + F5 veya Hata Ayıkla > Hata Ayıklamadan Başlat menüsü

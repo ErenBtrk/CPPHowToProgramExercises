@@ -2,16 +2,12 @@
 //
 
 #include <iostream>
+#include <fstream>
 #include "PhoneNumber.h"
-
 int main()
 {
-    PhoneNumber pNum("545","609","1867");
-    std::cout << pNum;
-
-    std::cout.clear(std::ios_base::failbit);
-    std::cout << std::cin.rdstate();
-    std::cout << std::cin.fail();
+    PhoneNumber pn("4247288");
+    pn.generateWords();
     
 }
 

@@ -1,0 +1,4 @@
+sizeof(int) = 4
+sizeof(double) = 8
+sizeof(float) = 4
+sizeof(char) = 1

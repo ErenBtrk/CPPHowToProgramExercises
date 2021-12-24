@@ -2,16 +2,11 @@
 //
 
 #include <iostream>
-#include "PhoneNumber.h"
-
+#include "FileProcess.h"
 int main()
-{
-    PhoneNumber pNum("545","609","1867");
-    std::cout << pNum;
-
-    std::cout.clear(std::ios_base::failbit);
-    std::cout << std::cin.rdstate();
-    std::cout << std::cin.fail();
+{   
+    FileProcess fp;
+    fp.Menu();
     
 }
 

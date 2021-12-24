@@ -5,6 +5,11 @@
 #include "PhoneNumber.h"
 using namespace std;
 
+PhoneNumber::PhoneNumber(const std::string &area, const std::string &ex, const std::string &line):areaCode(area),exchange(ex),line(line)
+{
+
+}
+
 // overloaded stream insertion operator; cannot be a member function
 // if we would like to invoke it with cout << somePhoneNumber; 
 ostream& operator<<(ostream& output, const PhoneNumber& number) {
