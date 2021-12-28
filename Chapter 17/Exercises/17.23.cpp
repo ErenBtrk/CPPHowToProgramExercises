@@ -8,14 +8,7 @@ int main()
         int input;
         std::cout << "Enter a number : ";
         std::cin >> input;
-        if(input > 5)
-        {
-            throw 5;
-        }
-        else
-        {
-            throw 5.5;
-        }
+        throw (input > 5 ? 5 : 5.55);
     }
     catch(const int &x)
     {
